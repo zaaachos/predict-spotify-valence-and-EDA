@@ -1,4 +1,5 @@
 # predict-spotify-valence-and-EDA
+
 ## Description
 ### Spotify uses a metric called valence to measure the happiness of a track. The metric itself, however, was not developed by Spotify. It was originally developed by Echo Nest, a company that was bought by Spotify in 2014. We don't know exactly how valence is calculated. Some details are given by a blog post, which you can find here:
 
