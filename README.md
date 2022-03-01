@@ -14,10 +14,10 @@ In the end, we will use 5 models to predict valence of the tracks
 * CNNs (with dropout 0.1)
 
 
-# Environment
+## Environment
 * Conda
 
-# Dependencies
+## Dependencies
 * Python
 * Tensorflow (Keras)
 * NumPy
