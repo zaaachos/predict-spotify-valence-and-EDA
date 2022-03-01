@@ -24,3 +24,6 @@ In the end, we will use 5 models to predict valence of the tracks
 * Matplotlib
 * spotipy
 * xgboost
+
+## License
+[MIT](https://github.com/zaaachos/predict-spotify-valence-and-EDA/blob/main/LICENSE)
