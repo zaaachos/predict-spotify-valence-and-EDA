@@ -5,7 +5,7 @@
 
 https://web.archive.org/web/20170422195736/http://blog.echonest.com/post/66097438564/plotting-musics-emotional-valence-1950-2013
 
-In this occasion,our aim is to untangle the mystery behind valence and propose how this is derived. I we will use statistical measures to find the most significant track features.
+In this occasion,our aim is to untangle the mystery behind valence and propose how this is derived. We will use statistical measures to find the most significant track features.
 In the end, we will use 5 models to predict valence of the tracks
 * XGBoost
 * SGDRegression
