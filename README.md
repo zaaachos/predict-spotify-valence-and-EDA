@@ -22,6 +22,7 @@ In the end, we will use 5 models to predict valence of the tracks
 * Tensorflow (Keras)
 * NumPy
 * Matplotlib
+* sklearn
 * spotipy
 * xgboost
 
